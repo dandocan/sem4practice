@@ -1,0 +1,5 @@
+JSON package necessary for every project
+
+express is a good npm
+
+dont do cmd npm install express, won't be part of the project only part of the project
